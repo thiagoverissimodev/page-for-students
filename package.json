@@ -1,0 +1,16 @@
+{
+  "name": "page-for-students",
+  "version": "1.0.0",
+  "description": "Page for apresetation of projects os students college Invest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node server.js"
+  },
+  "author": "Thiago Verissimo",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
